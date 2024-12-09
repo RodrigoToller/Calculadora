@@ -1,0 +1,7 @@
+Operação: Soma, Números: 123, 76452, Resultado: 76575
+Operação: Multiplicação, Números: 35, 8, Resultado: 280
+Operação: Multiplicação, Números: 44, 6, Resultado: 264
+Operação: Subtração, Números: 44, 8732, Resultado: -8688
+Operação: Raiz Quadrada, Número: 444, Resultado: 21,071307505705477
+Operação: Seno, Número: 44, Resultado: 0,017701925105413577
+Operação: Fatorial, Número: 12, Resultado: 479001600
